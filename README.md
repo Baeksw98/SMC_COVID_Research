@@ -1,8 +1,6 @@
-# Robust and Interpretable Early Triaging Support (RIETS)
+# Robust and Interpretable Early Triaging Support (RIETS) for predicting Severity among hospitalized COVID-19 Patients
 
-**COVID-19 Severity Prediction Research**
-
-[Sang Won Baek] Samsung Medical Center
+Sang Won Baek | Samsung Medical Center 
 
 ## Model Pipeline Overview
 
