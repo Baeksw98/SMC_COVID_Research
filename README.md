@@ -2,9 +2,9 @@
 
 **COVID-19 Severity Prediction Research**
 
-[Your Name or Institution](Your Website or Institutional Link)
+[Sang Won Baek] Samsung Medical Center
 
-## Overview
+## Model Pipeline Overview
 
 RIETS is a machine learning-based system developed for early triaging of hospitalized COVID-19 patients, predicting the progression to severe conditions within 15 days of hospitalization based on clinical and laboratory biomarkers.
 
